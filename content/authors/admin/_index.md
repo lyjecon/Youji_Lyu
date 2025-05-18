@@ -34,20 +34,20 @@ profiles:
     url: 'mailto:lyjecon@nankai.edu.cn'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com.hk/citations?user=fNq6Q1MAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0003-1171-3412
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social Security
+  - Population Ageing
+  - Behavioral Economics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Economics
+    institution: Peking University
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2021-07-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
