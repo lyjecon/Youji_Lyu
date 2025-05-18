@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吕有吉
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Youji Lyu
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Youji
-last_name: Lyu
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,43 +20,62 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Professor
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Nankai University
-    url: https://finance.nankai.edu.cn/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:lyjecon@nankai.edu.cn'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com.hk/citations?user=fNq6Q1MAAAAJ&hl=zh-CN
+    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0003-1171-3412
+    url: https://orcid.org/
 
 interests:
-  - Social Security
-  - Population Ageing
-  - Behavioral Economics
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD in Risk Management and Insurance
-    institution: Peking University
-    date_start: 2016-09-01
-    date_end: 2021-07-01
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area:  BA in Economics
-    institution: Nankai University
-    date_start: 2012-09-01
-    date_end: 2016-07-01
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
       
@@ -124,9 +143,11 @@ skills:
 
 languages:
   - name: English
-    percent: 75
-  - name: Chinese
     percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -162,4 +183,4 @@ awards:
 
 ## About Me
 
-Youji Lyu is an associate professor of  Risk Management and Insurance at School of Finance, Nankai University. He obtained the Ph.D. in Economics from Peking University. He researches question about social security, population ageing, and behavior economics. He is particularly interested in interplay between economics, demography, politics, and culture.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
