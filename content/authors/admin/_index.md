@@ -44,7 +44,7 @@ interests:
   - Behavioral Economics
 
 education:
-  - area: PhD in Economics
+  - area: PhD in Risk Management and Insurance
     institution: Peking University
     date_start: 2016-09-01
     date_end: 2021-07-01
@@ -162,4 +162,4 @@ awards:
 
 ## About Me
 
-Youji Lyu is an associate professor of risk management and insurance at School of Finance, Nankai University. He obtained the Ph.D. in Economics from Peking University. He researches question about social security, population ageing, and behavior economics. He is particularly interested in interplay between economics, demography, politics, and culture.
+Youji Lyu is an associate professor of  Risk Management and Insurance at School of Finance, Nankai University. He obtained the Ph.D. in Economics from Peking University. He researches question about social security, population ageing, and behavior economics. He is particularly interested in interplay between economics, demography, politics, and culture.
