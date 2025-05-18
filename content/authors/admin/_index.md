@@ -44,30 +44,19 @@ interests:
   - Behavioral Economics
 
 education:
-  - area: PhD Economics
+  - area: PhD in Economics
     institution: Peking University
-    date_start: 2016-01-01
-    date_end: 2021-07-31
+    date_start: 2016-09-01
+    date_end: 2021-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area:  BA in Economics
+    institution: Nankai University
+    date_start: 2012-09-01
+    date_end: 2016-07-01
     summary: |
       GPA: 3.4/4.0
       
@@ -135,11 +124,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -175,4 +162,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Youji Lyu is an associate professor of risk management and insurance at School of Finance, Nankai University. He obtained the Ph.D. in Economics from Peking University. He researches question about social security, population ageing, and behavior economics. He is particularly interested in interplay between economics, demography, politics, and culture.
