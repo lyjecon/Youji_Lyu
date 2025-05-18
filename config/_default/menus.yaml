@@ -4,6 +4,6 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: If you don't like something, change it. If you can't change it, change your attitude. Don't complain.
     url: /
     weight: 10
