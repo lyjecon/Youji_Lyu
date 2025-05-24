@@ -153,4 +153,4 @@ awards:
 
 ## About Me
 
-Youji Lyu is a Associate Professor at the School of Finance, Nankai University. His research interests include social security, population ageing, and behavior economics. He is particularly interested in interplay between economics, demography, politics, and culture. 
+Youji Lyu is an Associate Professor at the School of Finance, Nankai University. His research interests include social security, population ageing, and behavior economics. He is particularly interested in interplay between economics, demography, politics, and culture. 
