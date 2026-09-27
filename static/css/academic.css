@@ -1,12 +1,12 @@
-/* A quiet, readable identity for the academic homepage. */
+/* Ink-blue academic variant: warm details with a calm dark hero. */
 :root {
-  --academic-ink: #25352f;
-  --academic-muted: #607168;
-  --academic-green: #315f54;
-  --academic-line: #dfe4dd;
+  --academic-ink: #203746;
+  --academic-muted: #63747b;
+  --academic-link: #2b5c70;
+  --academic-line: #dce3e5;
   --academic-paper: #ffffff;
-  --academic-warm: #f7f5f0;
-  --academic-accent: #a47b53;
+  --academic-warm: #f7f7f4;
+  --academic-accent: #b58d63;
 }
 
 body {
@@ -26,28 +26,36 @@ a {
 }
 
 a:hover {
-  color: var(--academic-green);
+  color: var(--academic-link);
 }
 
 #about {
-  background: radial-gradient(circle at 85% 15%, #ece5d8 0, transparent 37%), #f3f0e9 !important;
-  color: var(--academic-ink);
-  border-bottom: 1px solid var(--academic-line);
+  background:
+    radial-gradient(circle at 82% 18%, rgba(111, 151, 164, 0.27), transparent 38%),
+    linear-gradient(135deg, #102733 0%, #1d3c4c 55%, #17313f 100%) !important;
+  color: #eef3f2;
+  border-bottom: 1px solid #305061;
 }
 
 #about h1,
 #about h2,
-#about h3 {
-  color: var(--academic-ink);
+#about h3,
+#about p,
+#about li {
+  color: #f0f4f3 !important;
 }
 
 #about img {
-  border: 4px solid rgba(255, 255, 255, 0.9);
-  box-shadow: 0 16px 38px rgba(37, 53, 47, 0.12);
+  border: 4px solid rgba(247, 245, 239, 0.94);
+  box-shadow: 0 18px 42px rgba(5, 20, 30, 0.32);
 }
 
 #about a {
-  color: var(--academic-green);
+  color: #d8e7e9;
+}
+
+#about a:hover {
+  color: #fff;
 }
 
 #about a[href*="resume.pdf"] {
@@ -55,29 +63,29 @@ a:hover {
   align-items: center;
   justify-content: center;
   border-radius: 0.45rem;
-  background: var(--academic-green);
-  color: #fff !important;
-  border: 1px solid var(--academic-green);
+  background: #d6b88d;
+  color: #193444 !important;
+  border: 1px solid #d6b88d;
   padding: 0.7rem 1.15rem;
   font-weight: 600;
   text-decoration: none;
-  box-shadow: 0 6px 18px rgba(49, 95, 84, 0.15);
+  box-shadow: 0 6px 18px rgba(5, 20, 30, 0.2);
   transition: background-color 160ms ease, box-shadow 160ms ease;
 }
 
 #about a[href*="resume.pdf"]:hover {
-  background: #244b42;
-  box-shadow: 0 8px 20px rgba(49, 95, 84, 0.2);
+  background: #e3c99f;
+  box-shadow: 0 8px 22px rgba(5, 20, 30, 0.27);
 }
 
 #about a svg {
   width: 1.2rem;
   height: 1.2rem;
-  color: var(--academic-green);
+  color: #d8e7e9;
 }
 
 #about a[href*="resume.pdf"] svg {
-  color: #fff;
+  color: #193444;
 }
 
 :is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) {
@@ -166,14 +174,14 @@ a:hover {
 }
 
 #grants h3 {
-  color: var(--academic-green);
+  color: var(--academic-link);
   font-size: 1.28rem;
   font-weight: 600;
   margin-top: 2rem;
 }
 
 #research strong {
-  color: var(--academic-green);
+  color: var(--academic-link);
 }
 
 footer {
