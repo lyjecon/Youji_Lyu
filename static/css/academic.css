@@ -88,20 +88,20 @@ a:hover {
   color: #193444;
 }
 
-:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) {
+:is(#research, #publications, #working-papers, #grants, #teaching) {
   scroll-margin-top: 5.5rem;
   padding-block: clamp(3.25rem, 5vw, 5rem);
 }
 
-:is(#research, #working-papers, #teaching, #honors) {
+:is(#research, #working-papers, #teaching) {
   background: var(--academic-warm) !important;
 }
 
-:is(#publications, #grants, #appointments) {
+:is(#publications, #grants) {
   background: var(--academic-paper) !important;
 }
 
-:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) h2 {
+:is(#research, #publications, #working-papers, #grants, #teaching) h2 {
   color: var(--academic-ink);
   font-size: clamp(1.8rem, 2.3vw, 2.45rem);
   line-height: 1.2;
@@ -113,9 +113,7 @@ a:hover {
 #publications h2::before,
 #working-papers h2::before,
 #grants h2::before,
-#teaching h2::before,
-#appointments h2::before,
-#honors h2::before {
+#teaching h2::before {
   display: inline-block;
   margin-right: 0.8rem;
   color: var(--academic-accent);
@@ -131,33 +129,31 @@ a:hover {
 #working-papers h2::before { content: "03"; }
 #grants h2::before { content: "04"; }
 #teaching h2::before { content: "05"; }
-#appointments h2::before { content: "06"; }
-#honors h2::before { content: "07"; }
 
-:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) p,
-:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) li {
+:is(#research, #publications, #working-papers, #grants, #teaching) p,
+:is(#research, #publications, #working-papers, #grants, #teaching) li {
   color: var(--academic-ink);
   line-height: 1.72;
 }
 
-:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) ul {
+:is(#publications, #working-papers, #grants, #teaching) ul {
   list-style: none;
   padding-left: 0;
   max-width: 82ch;
 }
 
-:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li {
+:is(#publications, #working-papers, #grants, #teaching) li {
   position: relative;
   margin: 0 !important;
   padding: 1.05rem 0 1.05rem 1.35rem;
   border-bottom: 1px solid var(--academic-line);
 }
 
-:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li:last-child {
+:is(#publications, #working-papers, #grants, #teaching) li:last-child {
   border-bottom: 0;
 }
 
-:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li::before {
+:is(#publications, #working-papers, #grants, #teaching) li::before {
   content: "";
   position: absolute;
   top: 1.72rem;
@@ -168,7 +164,7 @@ a:hover {
   background: var(--academic-accent);
 }
 
-:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li strong {
+:is(#publications, #working-papers, #grants, #teaching) li strong {
   color: var(--academic-ink);
   font-weight: 650;
 }
@@ -191,15 +187,15 @@ footer {
 }
 
 @media (max-width: 640px) {
-  :is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) {
+  :is(#research, #publications, #working-papers, #grants, #teaching) {
     padding-block: 2.8rem;
   }
 
-  :is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li {
+  :is(#publications, #working-papers, #grants, #teaching) li {
     padding: 0.9rem 0 0.9rem 1rem;
   }
 
-  :is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li::before {
+  :is(#publications, #working-papers, #grants, #teaching) li::before {
     top: 1.52rem;
     left: 0;
   }
