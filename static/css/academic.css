@@ -1,0 +1,204 @@
+/* A quiet, readable identity for the academic homepage. */
+:root {
+  --academic-ink: #25352f;
+  --academic-muted: #607168;
+  --academic-green: #315f54;
+  --academic-line: #dfe4dd;
+  --academic-paper: #ffffff;
+  --academic-warm: #f7f5f0;
+  --academic-accent: #a47b53;
+}
+
+body {
+  background: var(--academic-paper);
+  color: var(--academic-ink);
+  font-family: "Aptos", "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  line-height: 1.65;
+}
+
+h1, h2, h3 {
+  font-family: "Iowan Old Style", "Baskerville", "Noto Serif CJK SC", "Songti SC", Georgia, serif;
+  letter-spacing: -0.018em;
+}
+
+a {
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--academic-green);
+}
+
+#about {
+  background: radial-gradient(circle at 85% 15%, #ece5d8 0, transparent 37%), #f3f0e9 !important;
+  color: var(--academic-ink);
+  border-bottom: 1px solid var(--academic-line);
+}
+
+#about h1,
+#about h2,
+#about h3 {
+  color: var(--academic-ink);
+}
+
+#about img {
+  border: 4px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 16px 38px rgba(37, 53, 47, 0.12);
+}
+
+#about a {
+  color: var(--academic-green);
+}
+
+#about a[href*="resume.pdf"] {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.45rem;
+  background: var(--academic-green);
+  color: #fff !important;
+  border: 1px solid var(--academic-green);
+  padding: 0.7rem 1.15rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 6px 18px rgba(49, 95, 84, 0.15);
+  transition: background-color 160ms ease, box-shadow 160ms ease;
+}
+
+#about a[href*="resume.pdf"]:hover {
+  background: #244b42;
+  box-shadow: 0 8px 20px rgba(49, 95, 84, 0.2);
+}
+
+#about a svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  color: var(--academic-green);
+}
+
+#about a[href*="resume.pdf"] svg {
+  color: #fff;
+}
+
+:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) {
+  scroll-margin-top: 5.5rem;
+  padding-block: clamp(3.25rem, 5vw, 5rem);
+}
+
+:is(#research, #working-papers, #teaching, #honors) {
+  background: var(--academic-warm) !important;
+}
+
+:is(#publications, #grants, #appointments) {
+  background: var(--academic-paper) !important;
+}
+
+:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) h2 {
+  color: var(--academic-ink);
+  font-size: clamp(1.8rem, 2.3vw, 2.45rem);
+  line-height: 1.2;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+#research h2::before,
+#publications h2::before,
+#working-papers h2::before,
+#grants h2::before,
+#teaching h2::before,
+#appointments h2::before,
+#honors h2::before {
+  display: inline-block;
+  margin-right: 0.8rem;
+  color: var(--academic-accent);
+  font-family: "Aptos", "Segoe UI", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  vertical-align: middle;
+}
+
+#research h2::before { content: "01"; }
+#publications h2::before { content: "02"; }
+#working-papers h2::before { content: "03"; }
+#grants h2::before { content: "04"; }
+#teaching h2::before { content: "05"; }
+#appointments h2::before { content: "06"; }
+#honors h2::before { content: "07"; }
+
+:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) p,
+:is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) li {
+  color: var(--academic-ink);
+  line-height: 1.72;
+}
+
+:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) ul {
+  list-style: none;
+  padding-left: 0;
+  max-width: 82ch;
+}
+
+:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li {
+  position: relative;
+  margin: 0 !important;
+  padding: 1.05rem 0 1.05rem 1.35rem;
+  border-bottom: 1px solid var(--academic-line);
+}
+
+:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li:last-child {
+  border-bottom: 0;
+}
+
+:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li::before {
+  content: "";
+  position: absolute;
+  top: 1.72rem;
+  left: 0.1rem;
+  width: 0.34rem;
+  height: 0.34rem;
+  border-radius: 50%;
+  background: var(--academic-accent);
+}
+
+:is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li strong {
+  color: var(--academic-ink);
+  font-weight: 650;
+}
+
+#grants h3 {
+  color: var(--academic-green);
+  font-size: 1.28rem;
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+#research strong {
+  color: var(--academic-green);
+}
+
+footer {
+  border-top: 1px solid var(--academic-line);
+  background: var(--academic-warm);
+  color: var(--academic-muted);
+}
+
+@media (max-width: 640px) {
+  :is(#research, #publications, #working-papers, #grants, #teaching, #appointments, #honors) {
+    padding-block: 2.8rem;
+  }
+
+  :is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li {
+    padding: 0.9rem 0 0.9rem 1rem;
+  }
+
+  :is(#publications, #working-papers, #grants, #teaching, #appointments, #honors) li::before {
+    top: 1.52rem;
+    left: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #about a[href*="resume.pdf"] {
+    transition: none;
+  }
+}
