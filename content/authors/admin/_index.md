@@ -3,8 +3,6 @@ title: 吕有吉
 name_pronunciation: Youji Lyu
 first_name: Youji
 last_name: Lyu
-status:
-  icon: ☕️
 superuser: true
 highlight_name: true
 role: Associate Professor of Risk Management and Insurance
@@ -17,8 +15,10 @@ profiles:
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com.hk/citations?user=fNq6Q1MAAAAJ&hl=zh-CN
+    label: Google Scholar
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1171-3412
+    label: ORCID
 interests:
   - Social Security
   - Population Ageing
