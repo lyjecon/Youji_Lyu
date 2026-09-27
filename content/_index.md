@@ -16,8 +16,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
+      css_class: dark
       background:
-        color: '#f3f0e9'
+        color: '#172f3d'
   - block: markdown
     id: research
     content:
@@ -141,40 +142,4 @@ sections:
         - **Theory and Policy of Pension / 养老金理论与政策** — Graduate, required course; 2026–present.
     design:
       columns: 1
-
-  - block: markdown
-    id: appointments
-    content:
-      title: "Appointments"
-      text: |
-        - **Associate Professor of Risk Management and Insurance**, Nankai University, January 2025–present.
-        - **Junior Lecturer of Risk Management and Insurance**, Nankai University, July 2021–December 2024.
-    design:
-      columns: 1
-
-  - block: markdown
-    id: honors
-    content:
-      title: "Honors and Awards"
-      text: |
-        - 北京市优秀毕业生 — 2021.
-        
-        - 北京大学优秀毕业生 — 2021.
-        
-        - 当代经济学博士创新项目入围奖 — 2022.
-        
-        - 南开大学师生同行暑期社会实践工作优秀指导教师标兵 — 2022.
-        
-        - 南开大学第三届主题微团课大赛优秀作品奖 — 2023.
-        
-        - 天津市第十七届青年教师教学大赛校内选拔赛文科二等奖 — 2023.
-        
-        - 金融知识进校园视频公开课大赛二等奖 — 2023.
-        
-        - 本科优秀毕业论文指导教师 — 2024.
-        
-        - 南开大学优秀班导师 — 2024.
-    design:
-      columns: 1
-
 ---
