@@ -38,6 +38,8 @@ sections:
       text: |
         Peer-reviewed and accepted journal articles. Citation details and acceptance status follow the [current CV](/uploads/resume.pdf).
         
+        - **此消彼长：生育住院医保支付方式改革对住院与门诊服务的影响.** 王小倩、马旌搏、吕有吉 (2026). *保险研究*, 接收待刊.
+        
         - **The Role of the Health Effect in Estimating the Willingness to Pay for Long-Term Care Insurance.** Zining Liu, Youji Lyu, Wei Zheng, and Yi Yao. *Journal of Risk and Insurance*, accepted.
         
         - **The Impact of Parents’ Public Sector Jobs on Children’s Marital Stability: Evidence from China.** Youji Lyu, Yuxuan Li, and Yanran Chen (2025). *Applied Economics*, accepted.
@@ -79,9 +81,11 @@ sections:
       text: |
         - **Grandchild Care and Grandparents’ Health.** Youji Lyu. Revise and resubmit at *Health Economics*.
         
-        - **公共养老保险改革与收入不平等演化.** 吕有吉、郑伟. 重大修订.
+        - **Clan Culture and Commercial Health Insurance Demand.** Yuxuan Li and Youji Lyu. Revise and resubmit at *Applied Economics*; presented at the 2025 WRIEC Conference.
         
-        - **Clan Culture and Commercial Health Insurance Demand.** Yuxuan Li and Youji Lyu. Major revision; presented at the 2025 WRIEC Conference.
+        - **Social Health Insurance and Socioeconomic Inequalities in Health: Evidence from China.** Yuxuan Li, Youji Lyu, and Wei Zheng. Revise and resubmit at *The Geneva Papers on Risk and Insurance – Issues and Practice*.
+        
+        - **基本养老保险制度参量改革与预期管理的协同效应分析.** 吕有吉、李雨轩、郑伟. 重大修订.
         
         - **Cost-Induced Innovation and Within-Firm Wage Gap.** Kai Kang, Youji Lyu, and Xiaolin Zhang. Work in progress; 2025 赛瑟论坛优秀论文奖.
         
@@ -133,6 +137,8 @@ sections:
         - **Frontiers in Economics of Aging and Health / 养老与健康经济学前沿** — Graduate and PhD elective; 2026–present.
         
         - **Advanced Microeconomics (I) / 高级微观经济学（一）** — PhD required course; 2024–2025.
+        
+        - **Theory and Policy of Pension / 养老金理论与政策** — Graduate, required course; 2026–present.
     design:
       columns: 1
 
