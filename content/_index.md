@@ -38,6 +38,8 @@ sections:
       text: |
         Peer-reviewed and accepted journal articles. Citation details and acceptance status follow the [current CV](/uploads/resume.pdf).
         
+        - **此消彼长：生育住院医保支付方式改革对住院与门诊服务的影响.** 王小倩、马旌搏、吕有吉 (2026). *保险研究*, 接收待刊.
+        
         - **The Role of the Health Effect in Estimating the Willingness to Pay for Long-Term Care Insurance.** Zining Liu, Youji Lyu, Wei Zheng, and Yi Yao. *Journal of Risk and Insurance*, accepted.
         
         - **The Impact of Parents’ Public Sector Jobs on Children’s Marital Stability: Evidence from China.** Youji Lyu, Yuxuan Li, and Yanran Chen (2025). *Applied Economics*, accepted.
@@ -79,9 +81,11 @@ sections:
       text: |
         - **Grandchild Care and Grandparents’ Health.** Youji Lyu. Revise and resubmit at *Health Economics*.
         
-        - **公共养老保险改革与收入不平等演化.** 吕有吉、郑伟. 重大修订.
+        - **Clan Culture and Commercial Health Insurance Demand.** Yuxuan Li and Youji Lyu. Revise and resubmit at *Applied Economics*; presented at the 2025 WRIEC Conference.
         
-        - **Clan Culture and Commercial Health Insurance Demand.** Yuxuan Li and Youji Lyu. Major revision; presented at the 2025 WRIEC Conference.
+        - **Social Health Insurance and Socioeconomic Inequalities in Health: Evidence from China.** Yuxuan Li, Youji Lyu, and Wei Zheng. Revise and resubmit at *The Geneva Papers on Risk and Insurance – Issues and Practice*.
+        
+        - **基本养老保险制度参量改革与预期管理的协同效应分析.** 吕有吉、李雨轩、郑伟. 重大修订.
         
         - **Cost-Induced Innovation and Within-Firm Wage Gap.** Kai Kang, Youji Lyu, and Xiaolin Zhang. Work in progress; 2025 赛瑟论坛优秀论文奖.
         
@@ -98,10 +102,8 @@ sections:
   - block: markdown
     id: grants
     content:
-      title: "Research Grants"
+      title: "Public Research Grants"
       text: |
-        ### Public funding
-        
         - **延迟退休、养老保险降费与收入不平等演化** — 国家自然科学基金青年科学基金项目；课题负责人，2023–2025.
         
         - **中国农村人口养老问题研究** — 南开大学人文社会科学基本科研业务费专项资金项目；课题负责人，2022–2023.
@@ -112,35 +114,6 @@ sections:
         
         - **社会保险缴费基数调整的资源配置功能、收入分配效应与政策协同机制研究** — 国家自然科学基金项目；参与，2024–2026.
         
-        ### Commissioned and private funding
-        
-        - **Healthy Ageing in China: Expanding Health Protection for the Middle-Age and Elderly** — Swiss Re Institute Risk Dialogue Series; Principal Executor, 2019–2020.
-        
-        - **Risk Factors and Economic Impacts of Chronic Disease for Middle-Aged and Older People in China** — Swiss Re Institute Risk Dialogue Series; Principal Executor, 2021–2022.
-        
-        - **世界人身保险产品创新历史** — 泰康保险集团委托课题；主要参与人，2022–2023.
-        
-        - **基于市场环境变化的企业年金投资绩效多维度考核评价及结果应用体系研究** — 国家电网（江苏）委托课题；主持，2023.
-        
-        - **商业医疗险白皮书项目** — 中国人民健康保险深圳分公司委托课题；主要参与人，2023–2024.
-        
-        - **中国保险高等教育发展报告** — 中国保险学会委托课题；主要参与人，2024.
-        
-        - **国别工伤保险制度建设和最新改革动态研究** — 中国清洁发展机制基金管理中心委托课题；主持，2024.
-        
-        - **关于构建数字化灵活就业人员基本医疗保险参保机制及实施方案的报告** — 国家医保局委托课题；主要参与人，2024.
-        
-        - **长期护理保险定点服务机构分类分级管理办法研究** — 中国保险学会委托课题；主要参与人，2024.
-        
-        - **数据驱动下的健康保险与健康管理融合发展研究** — 中电数据运营有限公司委托课题；主要参与人，2024–2025.
-        
-        - **天津市养老金融发展报告** — 天津市滨海农村商业银行委托课题；主要参与人，2025.
-        
-        - **天津市农村养老金融服务的供需矛盾调查与高质量发展研究** — 天津农村商业银行委托课题；主要参与人，2025.
-        
-        - **渤海财险高质量发展与风险防控课题** — 渤海财险；主持，2025–2026.
-        
-        - **恒安标准人寿高质量发展与风险防控课题** — 恒安标准人寿；主持，2025–2026.
     design:
       columns: 1
 
@@ -164,6 +137,8 @@ sections:
         - **Frontiers in Economics of Aging and Health / 养老与健康经济学前沿** — Graduate and PhD elective; 2026–present.
         
         - **Advanced Microeconomics (I) / 高级微观经济学（一）** — PhD required course; 2024–2025.
+        
+        - **Theory and Policy of Pension / 养老金理论与政策** — Graduate, required course; 2026–present.
     design:
       columns: 1
 
