@@ -102,7 +102,7 @@ sections:
   - block: markdown
     id: grants
     content:
-      title: "Research Grants"
+      title: "Public Research Grants"
       text: |
         - **延迟退休、养老保险降费与收入不平等演化** — 国家自然科学基金青年科学基金项目；课题负责人，2023–2025.
         
