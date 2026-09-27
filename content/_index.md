@@ -4,7 +4,7 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing: "5rem"
+  spacing: "4.5rem"
 
 sections:
   - block: resume-biography-3
@@ -16,16 +16,8 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
       background:
-        color: black
-        image:
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        color: '#f3f0e9'
   - block: markdown
     id: research
     content:
@@ -36,6 +28,8 @@ sections:
         - **Social security:** pension reform, long-term care insurance, and policy evaluation.
         - **Population ageing:** health transitions, old-age support, and chronic disease management.
         - **Behavioral economics:** expectation bias, social networks, learning from experience, and loss aversion.
+    design:
+      columns: 1
 
   - block: markdown
     id: publications
@@ -75,6 +69,8 @@ sections:
         - **人口老龄化、养老保险基金缺口弥补与经济增长.** 吕有吉、景鹏、郑伟 (2021). *金融研究* (01): 51–70.
         
         - **长期护理保险制度的评估框架及应用：基于三个案例的分析.** 郑伟、姚奕、刘子宁、吕有吉 (2020). *保险研究* (10): 65–78.
+    design:
+      columns: 1
 
   - block: markdown
     id: working-papers
@@ -96,6 +92,8 @@ sections:
         - **财政资金杠杆效应的放大器——保险服务科创的新理论与新发现.** 郑伟、吕有吉. 工作论文.
         
         - **Social Insurance Contribution and Corporate Financialization.** Xia Du, Kai Kang, Youji Lyu, and Xiaoqian Wang. Work in progress.
+    design:
+      columns: 1
 
   - block: markdown
     id: grants
@@ -143,6 +141,8 @@ sections:
         - **渤海财险高质量发展与风险防控课题** — 渤海财险；主持，2025–2026.
         
         - **恒安标准人寿高质量发展与风险防控课题** — 恒安标准人寿；主持，2025–2026.
+    design:
+      columns: 1
 
   - block: markdown
     id: teaching
@@ -164,6 +164,8 @@ sections:
         - **Frontiers in Economics of Aging and Health / 养老与健康经济学前沿** — Graduate and PhD elective; 2026–present.
         
         - **Advanced Microeconomics (I) / 高级微观经济学（一）** — PhD required course; 2024–2025.
+    design:
+      columns: 1
 
   - block: markdown
     id: appointments
@@ -172,6 +174,8 @@ sections:
       text: |
         - **Associate Professor of Risk Management and Insurance**, Nankai University, January 2025–present.
         - **Junior Lecturer of Risk Management and Insurance**, Nankai University, July 2021–December 2024.
+    design:
+      columns: 1
 
   - block: markdown
     id: honors
@@ -195,4 +199,7 @@ sections:
         - 本科优秀毕业论文指导教师 — 2024.
         
         - 南开大学优秀班导师 — 2024.
+    design:
+      columns: 1
+
 ---
