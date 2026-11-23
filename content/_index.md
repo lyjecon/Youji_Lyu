@@ -43,7 +43,9 @@ sections:
         
         - **The Role of the Health Effect in Estimating the Willingness to Pay for Long-Term Care Insurance.** Zining Liu, Youji Lyu, Wei Zheng, and Yi Yao. *Journal of Risk and Insurance*, accepted.
         
-        - **The Impact of Parents’ Public Sector Jobs on Children’s Marital Stability: Evidence from China.** Youji Lyu, Yuxuan Li, and Yanran Chen (2025). *Applied Economics*, accepted.
+        - **The Impact of Parents’ Public Sector Jobs on Children’s Marital Stability: Evidence from China.** Youji Lyu, Yuxuan Li, Yanran Chen, and Xuezheng Qin (2026). *Applied Economics* 58(54): 12171–12188. [DOI](https://doi.org/10.1080/00036846.2025.2570547).
+        
+        - **Social Insurance Contributions and Corporate Financialization: Evidence from China’s Social Insurance Law.** Xia Du, Kai Kang, Youji Lyu, and Xiaoqian Wang (2026). *Applied Economics*, published online 31 March 2026. [DOI](https://doi.org/10.1080/00036846.2026.2652066).
         
         - **养老保险能缓解农村老人的社会关系排斥吗？——来自 CHARLS 的证据.** 郑伟、于梦迪、吕有吉 (2025). *保险研究*, 接收待刊.
         
@@ -95,8 +97,6 @@ sections:
         - **专利质押与企业脱虚向实——来自专利质押融资试点的证据.** 康凯、吕有吉. 工作论文.
         
         - **财政资金杠杆效应的放大器——保险服务科创的新理论与新发现.** 郑伟、吕有吉. 工作论文.
-        
-        - **Social Insurance Contribution and Corporate Financialization.** Xia Du, Kai Kang, Youji Lyu, and Xiaoqian Wang. Work in progress.
     design:
       columns: 1
 
