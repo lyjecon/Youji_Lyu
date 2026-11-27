@@ -41,21 +41,21 @@ sections:
         
         - **此消彼长：生育住院医保支付方式改革对住院与门诊服务的影响.** 王小倩、马旌搏、吕有吉 (2026). *保险研究*, 接收待刊.
         
-        - **The Role of the Health Effect in Estimating the Willingness to Pay for Long-Term Care Insurance.** Zining Liu, Youji Lyu, Wei Zheng, and Yi Yao. *Journal of Risk and Insurance*, accepted.
+        - **The Role of the Health Effect in Estimating the Willingness to Pay for Long-Term Care Insurance.** Zining Liu, Youji Lyu, Yi Yao, and Wei Zheng (2026). *Journal of Risk and Insurance* 93(2): 419–454. [DOI](https://doi.org/10.1111/jori.70032).
         
         - **The Impact of Parents’ Public Sector Jobs on Children’s Marital Stability: Evidence from China.** Youji Lyu, Yuxuan Li, Yanran Chen, and Xuezheng Qin (2026). *Applied Economics* 58(54): 12171–12188. [DOI](https://doi.org/10.1080/00036846.2025.2570547).
         
-        - **Social Insurance Contributions and Corporate Financialization: Evidence from China’s Social Insurance Law.** Xia Du, Kai Kang, Youji Lyu, and Xiaoqian Wang (2026). *Applied Economics*, published online 31 March 2026. [DOI](https://doi.org/10.1080/00036846.2026.2652066).
+        - **Social Insurance Contributions and Corporate Financialization: Evidence from China’s Social Insurance Law.** Xia Du, Kai Kang, Youji Lyu, and Xiaoqian Wang (2026). *Applied Economics*, published online 31 March 2026, pp. 1–17 (online). [DOI](https://doi.org/10.1080/00036846.2026.2652066).
         
-        - **养老保险能缓解农村老人的社会关系排斥吗？——来自 CHARLS 的证据.** 郑伟、于梦迪、吕有吉 (2025). *保险研究*, 接收待刊.
+        - **养老保险能缓解农村老人的社会关系排斥吗？——来自CHARLS的证据.** 郑伟、于梦迪、吕有吉 (2025). *保险研究* (10): 82–95. [期刊链接](https://cms.isc-org.cn/2025ndbxyj/16803.jhtml).
         
         - **隔代照料对祖父母劳动供给的影响——来自中国城市劳动力调查的证据.** 韩笑、吕有吉 (2025). *劳动经济研究* (03): 139–168.
         
-        - **Grandchild Care and Grandparents’ Labor Supply.** Yanran Chen and Youji Lyu (2025). *Economic Modelling*, accepted.
+        - **Grandchild Care and Grandparents’ Labor Supply.** Yanran Chen and Youji Lyu (2025). *Economic Modelling* 143: 106936 (article number). [DOI](https://doi.org/10.1016/j.econmod.2024.106936).
         
         - **长期护理保险对养老模式的影响——基于经济独立和居住独立的双重视角.** 刘子宁、周桦、吕有吉 (2024). *金融研究* (08): 188–206.
         
-        - **The Role of the Peer Effect in Forming Pension Expectations among the Middle Aged: Existence and Mechanisms.** Zining Liu, Youji Lyu, Wei Zheng, and Yi Yao (2024). *Journal of Pension Economics and Finance*, accepted.
+        - **The Role of the Peer Effect in Forming Pension Expectations among the Middle-Aged: Existence and Mechanisms.** Zining Liu, Youji Lyu, Yi Yao, and Wei Zheng (2024). *Journal of Pension Economics and Finance* 23(4): 549–573. [DOI](https://doi.org/10.1017/S1474747223000264).
         
         - **老农保参保经历会提升养老金预期准确性吗？来自 CHARLS 的证据.** 吕有吉、郑伟、谢志伟 (2023). *金融研究* (12): 113–131.
         
@@ -65,7 +65,7 @@ sections:
         
         - **The Impact of Expected Pensions on Consumption: Evidence from China.** Wei Zheng, Youji Lyu, Ruo Jia, and Katja Hanewald (2023). *Journal of Pension Economics and Finance* 22(1): 69–87.
         
-        - **Expectation-Based Loss Aversion in Contests.** Qiang Fu, Youji Lyu, Yuanjie Zhang, and Zenan Wu (2022). *Games and Economic Behavior* 133: 1–27.
+        - **Expectations-Based Loss Aversion in Contests.** Qiang Fu, Youji Lyu, Zenan Wu, and Yuanjie Zhang (2022). *Games and Economic Behavior* 133: 1–27. [DOI](https://doi.org/10.1016/j.geb.2022.01.018).
         
         - **中国人口慢性病的总体状况与群体差异.** 郑伟、韩笑、吕有吉 (2022). *社会科学辑刊* (03): 139–149+209.
         
